@@ -13,3 +13,12 @@ PlantUML 英文文档
 [PlantUML_Language_Reference_Guide_zh.pdf](pdf/PlantUML_Language_Reference_Guide_zh.pdf)
 PlantUML 中文文档
 
+[progit.epub](code/progit.epub)
+[progit.pdf](code/progit.pdf)
+
+`简体中文`[progit_v2.1.24.pdf](code/progit_v2.1.24.pdf)
+`简体中文`[progit_v2.1.24.pdf](code/progit_v2.1.24.epub)
+ 
+
+
+
