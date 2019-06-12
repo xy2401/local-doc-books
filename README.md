@@ -21,4 +21,17 @@ PlantUML 中文文档
  
 
 
+[Technology Radar | 有态度的前沿技术解析 | ThoughtWorks](https://www.thoughtworks.com/cn/radar)
 
+`201904 中文`[technology-radar-vol-20-cn.pdf](thoughtworks/technology-radar-vol-20-cn.pdf)
+`201904 English`[technology-radar-vol-20-en.pdf](thoughtworks/technology-radar-vol-20-en.pdf)
+
+`201811 中文`[technology-radar-vol-19-cn.pdf](thoughtworks/technology-radar-vol-19-cn.pdf)
+`201811 English`[technology-radar-vol-19-en.pdf](thoughtworks/technology-radar-vol-19-en.pdf)
+`201805 中文`[technology-radar-vol-18-cn.pdf](thoughtworks/technology-radar-vol-18-cn.pdf)
+`201805 English`[technology-radar-vol-18-en.pdf](thoughtworks/technology-radar-vol-18-en.pdf)
+
+`201711 中文`[technology-radar-vol-17-cn.pdf](thoughtworks/technology-radar-vol-17-cn.pdf)
+`201711 English`[technology-radar-vol-17-en.pdf](thoughtworks/technology-radar-vol-17-en.pdf)
+`201703 中文`[technology-radar-vol-16-cn.pdf](thoughtworks/technology-radar-vol-16-cn.pdf)
+`201703 English`[technology-radar-vol-16-en.pdf](thoughtworks/technology-radar-vol-16-en.pdf)
