@@ -22,7 +22,9 @@ PlantUML 中文文档
 
 # 阿里巴巴
 
-`java代码规范`[阿里巴巴Java开发手册（详尽版）.pdf](alibaba/阿里巴巴Java开发手册（详尽版）.pdf)
+`华山版《Java开发手册》`[Java-huashanxinban.pdf](alibaba/Java-huashanxinban.pdf)
+
+[Java手册页面-阿里云开发者社区-阿里云官网开发者社区_云计算社区](https://developer.aliyun.com/special/tech-java)
 
 
 `九年双11:互联网技术超级工程`[AliDouble11.pdf](alibaba/AliDouble11.pdf)
